@@ -50,6 +50,7 @@ uvicorn app.main:app --reload
 Примечание: если используете Git Bash/WSL/macOS/Linux, активируйте окружение так:
 
 source .venv/bin/activate
+
 ```
 
 ## Переменные окружения (опционально)
